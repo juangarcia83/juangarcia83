@@ -17,5 +17,5 @@
 - 🌐 [Google Maps SACO](https://github.com/juangarcia83/Google-Maps-SACO-EXPRESS)
 
 ## 📫 Contact
-📍 Spain | ✉️ juangarcia@example.com  
+📍 Spain | ✉️ jagarrea@etsinf.upv.es 
 🔗 [LinkedIn](https://linkedin.com/in/tuusuario) | [Portfolio](https://tuportfolio.com)
