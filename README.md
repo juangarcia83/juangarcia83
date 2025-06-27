@@ -1,7 +1,7 @@
 
 🎓 Data Science student at UPV  
 🧠 Passionate about AI, Computer Vision, and Cybersecurity  
-🔭 Currently working on: OCR for Sanskrit and a Web Audit tool  
+🔭 Currently working on: Web Audit tool  
 🌱 Learning: PyTorch, Power BI, and AWS  
 
 ## 🛠️ Tech Stack
