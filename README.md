@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Juan A. Garcia
 
 🎓 Data Science student at UPV  
 🧠 Passionate about AI, Computer Vision, and Cybersecurity  
